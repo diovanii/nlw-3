@@ -84,6 +84,7 @@ dist
 
 # Uploads folder
 backend/uploads/*
+backend/src/database/database.sqlite
 
 # Gatsby files
 .cache/
